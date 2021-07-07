@@ -3,8 +3,10 @@ tags={
 	"Balance"
 	"Overhaul"
 	"Events"
+	"Fixes"
+	"Utilities"
 }
-name="Reworked Crisis"
+name="Aggressive Crisis Engine"
 picture="thumbnail.png"
-supported_version="2.7.*"
-remote_file_id="2223446465"
+supported_version="3.0.*"
+remote_file_id="2268189539"
